@@ -54,7 +54,7 @@ while True:
                 
                 
             #volume
-            #print(dic)
+            print(dic)
             #print(dic[2],dic[4])
             minvol = 0
             maxvol = 1
